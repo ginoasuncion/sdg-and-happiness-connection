@@ -1,5 +1,5 @@
 # Visualizing the Connection between Sustainable Development Goals (SDGs) and Happiness
-This is a project for a data visualization class in Harbour Space University.
+This is a project for a data visualization class in Harbour Space University. The R programming language was used to create the charts for this project.
 
 # Objectives
 1. Identify and rank the top 10 countries exhibiting the highest scores on the SDGs and happiness indices in 2023.
