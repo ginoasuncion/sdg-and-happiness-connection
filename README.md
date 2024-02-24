@@ -6,7 +6,7 @@ This is a project for a data visualization class in Harbour Space University. Th
 2. Investigate the correlation between happiness and SDG index scores.
 3. Examine the regional patterns among countries in terms of SDG and happiness index scores.
 
-# Dataset
+# Datasets
 1. [Sustainable Development Report 2023 (SDR 2023)](https://sdgtransformationcenter.org/reports/sustainable-development-report-2023)
 2. [World Happiness Report 2023 (WHR 2023)](https://worldhappiness.report)
 
