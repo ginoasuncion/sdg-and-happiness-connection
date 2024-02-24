@@ -11,7 +11,9 @@ This is a project for a data visualization class in Harbour Space University.
 2. [World Happiness Report 2023 (WHR 2023)](https://worldhappiness.report)
 
 # Visualizations
-![SDG-top10-countries-barplot](https://github.com/ginoasuncion/sdg-and-happiness-connection/assets/13530187/8f2cd9f9-249b-4a59-8a06-a037d6d67fc2 width=50% height=50%)
+<img src="https://github.com/ginoasuncion/sdg-and-happiness-connection/assets/13530187/8f2cd9f9-249b-4a59-8a06-a037d6d67fc2" width=50% height=50%>
+
+![SDG-top10-countries-barplot](https://github.com/ginoasuncion/sdg-and-happiness-connection/assets/13530187/8f2cd9f9-249b-4a59-8a06-a037d6d67fc2)
 
 ![happiness-top10-countries-barplot](https://github.com/ginoasuncion/sdg-and-happiness-connection/assets/13530187/731fd54d-7d73-4b60-9ab1-cff66232e71d)
 
